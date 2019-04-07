@@ -8,8 +8,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-DVNTUIButtonDesignableExtension is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+To install it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'DVNTUIButtonDesignableExtension'
@@ -21,4 +20,4 @@ Raúl Vidal Muiños, raul.vidal@devinet.es
 
 ## License
 
-DVNTUIButtonDesignableExtension is available under the MIT license. See the LICENSE file for more info.
+DVNTUIButtonDesignableExtension is available under copyright (C) license. See the LICENSE file for more info.
