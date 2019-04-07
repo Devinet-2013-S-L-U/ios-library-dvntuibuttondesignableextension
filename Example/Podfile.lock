@@ -1,0 +1,16 @@
+PODS:
+  - DVNTUIButtonDesignableExtension (0.1.0)
+
+DEPENDENCIES:
+  - DVNTUIButtonDesignableExtension (from `../`)
+
+EXTERNAL SOURCES:
+  DVNTUIButtonDesignableExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DVNTUIButtonDesignableExtension: 978af54d33c685c7d267ba296d7e356377c789c5
+
+PODFILE CHECKSUM: d806ad111f7ffa2877423a4599891520c9f9132c
+
+COCOAPODS: 1.7.0.beta.3
