@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   
   s.name             = 'DVNTUIButtonDesignableExtension'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = 'An amazing UIButton estension.'
   s.description      = 'A extension that let\'s you set the corner radius, the border with and the border color of a button trought Interface Builder.'
   s.homepage         = 'https://www.devinet.es'

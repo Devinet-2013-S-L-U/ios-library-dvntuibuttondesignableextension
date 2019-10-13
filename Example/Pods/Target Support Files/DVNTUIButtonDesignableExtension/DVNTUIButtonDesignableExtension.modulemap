@@ -1,6 +1,0 @@
-framework module DVNTUIButtonDesignableExtension {
-  umbrella header "DVNTUIButtonDesignableExtension-umbrella.h"
-
-  export *
-  module * { export * }
-}

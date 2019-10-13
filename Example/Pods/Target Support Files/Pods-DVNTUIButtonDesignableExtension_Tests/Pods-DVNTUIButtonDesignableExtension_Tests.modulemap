@@ -1,6 +1,0 @@
-framework module Pods_DVNTUIButtonDesignableExtension_Tests {
-  umbrella header "Pods-DVNTUIButtonDesignableExtension_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}

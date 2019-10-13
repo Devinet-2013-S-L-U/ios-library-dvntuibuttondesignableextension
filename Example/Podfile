@@ -1,6 +1,0 @@
-use_frameworks!
-target 'DVNTUIButtonDesignableExtension_Tests' do
-  pod 'DVNTUIButtonDesignableExtension', :path => '../'
-  
-  
-end
