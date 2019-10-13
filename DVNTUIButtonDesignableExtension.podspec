@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   
   s.name             = 'DVNTUIButtonDesignableExtension'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'An amazing UIButton estension.'
   s.description      = 'A extension that let\'s you set the corner radius, the border with and the border color of a button trought Interface Builder.'
   s.homepage         = 'https://www.devinet.es'
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.swift_versions   = ['3.0', '4.0', '4.1', '4.2', '5.0']
   s.source           = { :git => 'https://bitbucket.org/Devinet_Team/ios-library-dvntuibuttondesignableextension.git', :tag => s.version.to_s }
   s.frameworks       = 'UIKit'
-  s.source_files     = 'DVNTUIButtonDesignableExtension/Classes/**/*'
-  s.exclude_files    = 'DVNTUIButtonDesignableExtension/**/*.plist'
+  s.source_files     = 'Sources/DVNTUIButtonDesignableExtension/Classes/**/*'
+  s.exclude_files    = 'Sources/DVNTUIButtonDesignableExtension/**/*.plist'
   
 end
